@@ -5,10 +5,10 @@ This project performs sentiment analysis on Twitter data to determine the sentim
 
 ## Dataset
 The dataset consists of tweets with the following columns:
-  -ID: Unique identifier for each tweet
-  -Company Name: Contextual reference for sentiment analysis
-  -Sentiment: Labeled sentiment (Positive, Negative, Neutral)
-  -Tweet: Text content of the tweet
+  - ID: Unique identifier for each tweet
+  - Company Name: Contextual reference for sentiment analysis
+  - Sentiment: Labeled sentiment (Positive, Negative, Neutral)
+  - Tweet: Text content of the tweet
 
 ## Technologies & Tools Used
   -Python
